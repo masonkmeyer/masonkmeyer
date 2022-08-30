@@ -1,6 +1,6 @@
-![](./Mason.webp | width=100)
+![](./mason.png)
 
-### 👋 Welcome!
+## Welcome!
 
 I'm Mason, a software engineer at 🎁 [Govalo](https://govalo.com/) 
 
