@@ -14,4 +14,4 @@ I'm an experienced engineering manager and software engineer. I've worked profes
 
 |   |   |
 |---|---|
-|[![masonkmeyer's github stats](https://github-readme-stats.vercel.app/api?username=masonkmeyer&show_icons=true&theme=default)](https://github.com/masonkmeyer/)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masonkmeyer&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
+|[![masonkmeyer's github stats](https://github-readme-stats.vercel.app/api?username=masonkmeyer&show_icons=true&theme=default&count_private=true)](https://github.com/masonkmeyer/)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masonkmeyer&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats) |
