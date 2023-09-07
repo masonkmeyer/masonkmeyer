@@ -2,7 +2,7 @@
 
 ## Welcome!
 
-I'm Mason, a software engineer at 🎁 [Govalo](https://govalo.com/) 
+I'm Mason, Director of Engineering at 🎁 [Eptura](https://eptura.com/) 
 
 I'm an experienced engineering manager and software engineer. I've worked professionally in JS, TS, Go, Java, Kotlin, Python, C# and more. 
 
